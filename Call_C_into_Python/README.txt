@@ -1,9 +1,8 @@
-***********************************
-# Call C program into python code *
-***********************************
+# Call C program into python code
+
 
 ## On Windows OS
--------------
+
 1. Create a C program (main.c) for example :
 
 ```C
